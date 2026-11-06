@@ -1,0 +1,244 @@
+pertanyaan,intent,jawaban
+halo,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+hai,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+hai kak,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+selamat pagi,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+selamat siang,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+selamat sore,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+selamat malam,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+halo admin,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+permisi kak,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+assalamualaikum,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+hallo bot,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+hey,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+p,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+halo kak mau tanya dong,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+"hai selamat pagi, saya mau bertanya sesuatu",salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+pagi kak,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+halo apakah ada orang di sini,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+"hi, bisa bantu saya?",salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+kamu siapa,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+siapa kamu,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+siapa namamu,salam,"Halo! Saya SiKampus, asisten virtual kampus. Ada yang bisa saya bantu seputar pendaftaran, biaya, beasiswa, jadwal, atau layanan kampus?"
+dadah,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+sampai jumpa,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+bye,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+bye bye,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+sampai ketemu lagi,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+"sudah cukup, saya pamit dulu",perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+"oke itu saja, saya keluar ya",perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+udah dulu ya kak,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+"terima kasih, saya pergi dulu",perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+selamat tinggal,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+see you,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+cukup sekian pertanyaan saya,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+saya pamit,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+sampai nanti ya,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+dah dulu ya bot,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+"baik kak, kalau begitu saya undur diri",perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+"ok sudah jelas, sampai jumpa lagi",perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+yaudah gue cabut dulu,perpisahan,"Sampai jumpa! Jika ada pertanyaan lain, silakan chat lagi kapan saja."
+terima kasih,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+makasih,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+makasih banyak,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+thanks,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+thank you,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+terima kasih banyak kak,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+makasih ya kak infonya,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+terima kasih atas bantuannya,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+thx,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+"mantap, makasih",terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+terima kasih infonya sangat membantu sekali,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+oke makasih kak,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+tengkyu,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+"wah jelas banget, makasih ya",terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+terima kasih sudah menjawab pertanyaan saya dengan cepat,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+makasih bot,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+trims,terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+"sip, terima kasih kak",terima_kasih,Sama-sama! Senang bisa membantu. Semoga harimu menyenangkan.
+jam buka perpustakaan,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+perpustakaan buka jam berapa,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+perpus tutup jam berapa,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+jam operasional perpustakaan,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+kapan perpustakaan buka,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+apakah perpustakaan buka hari sabtu,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+perpus buka hari minggu gak,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+jam layanan perpustakaan kampus,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+perpustakaan buka sampai jam berapa kak,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+"mau ke perpus, bukanya jam berapa ya",jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+hari apa saja perpustakaan beroperasi,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+perpus libur tanggal merah ga,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+jadwal buka tutup perpus,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+"saya ingin meminjam buku, perpustakaan buka sampai malam tidak",jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+kalau hari sabtu perpustakaan tutup jam berapa,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+info jam perpus dong,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+bisa tolong kasih tahu jam kerja perpustakaan,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+perpustakaan hari ini buka atau tidak,jam_perpustakaan,Perpustakaan kampus buka Senin-Jumat pukul 08.00-20.00 WIB dan Sabtu pukul 08.00-14.00 WIB. Hari Minggu dan tanggal merah tutup.
+bagaimana cara mendaftar kuliah,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+cara daftar mahasiswa baru,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+syarat pendaftaran apa saja,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+dokumen apa yang harus disiapkan untuk daftar,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+kapan pendaftaran mahasiswa baru dibuka,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+daftar kuliah di sini gimana caranya,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+pendaftaran online lewat mana,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+persyaratan masuk kampus,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+mau daftar jalur reguler bagaimana,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+"saya lulusan SMA tahun ini, bagaimana prosedur mendaftar",pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+info pmb dong,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+berkas pendaftaran apa aja,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+gimana alur daftar ulang mahasiswa baru,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+apakah pendaftaran masih dibuka,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+"saya tertarik kuliah di kampus ini, tolong jelaskan tahapan pendaftarannya dari awal sampai selesai",pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+link pendaftaran mahasiswa baru,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+daftar jadi mahasiswa gimana ya,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+ada tes masuk gak waktu daftar,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+cara daftar kuliah,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+gimana cara daftar kuliah di sini,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+"mau daftar kuliah, caranya bagaimana",pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+prosedur daftar kuliah,pendaftaran,"Pendaftaran mahasiswa baru dilakukan online di portal pmb kampus. Siapkan scan ijazah/SKL, KTP, pas foto, dan kartu keluarga, lalu isi formulir serta bayar biaya pendaftaran."
+berapa biaya kuliah,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+uang kuliah per semester berapa,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+biaya UKT berapa,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+berapa uang pangkalnya,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+rincian biaya pendidikan,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+kuliah di sini mahal gak,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+biaya semester untuk informatika berapa,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+spp per semester berapa kak,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+apakah bisa membayar uang kuliah dengan cicilan,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+kapan batas akhir pembayaran ukt,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+tarif kuliah tiap prodi sama atau beda,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+mau tanya biaya masuk dan biaya per semesternya,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+ada biaya tambahan selain ukt gak,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+cara bayar uang kuliah lewat apa,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+saya ingin tahu total biaya yang harus disiapkan orang tua saya untuk kuliah di sini selama satu semester,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+uang gedung berapa,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+estimasi biaya kuliah sampai lulus,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+bisa dicicil gak bayar kuliahnya,biaya_kuliah,"Biaya kuliah terdiri dari uang pangkal sekali bayar dan UKT per semester sesuai program studi, mulai sekitar Rp3.500.000 hingga Rp7.500.000 per semester. Rincian lengkap ada di website bagian Biaya Pendidikan."
+apakah ada beasiswa,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+info beasiswa dong,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+cara daftar beasiswa,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+syarat beasiswa prestasi,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+beasiswa kip kuliah gimana,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+kapan pendaftaran beasiswa dibuka,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+jenis beasiswa apa saja yang tersedia,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+"saya anak kurang mampu, ada bantuan biaya kuliah gak",beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+beasiswa untuk mahasiswa berprestasi ada ga kak,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+dokumen yang dibutuhkan untuk beasiswa,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+ipk minimal buat beasiswa berapa,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+ada keringanan biaya kuliah gak,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+mau tanya soal beasiswa yayasan,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+apakah mahasiswa baru bisa langsung dapat beasiswa,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+"saya ingin mengajukan beasiswa karena kondisi ekonomi keluarga sedang sulit, bagaimana prosedurnya",beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+beasiswa full ada gak,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+tolong jelaskan program bantuan pendidikan di kampus ini,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+bisa daftar beasiswa lewat mana,beasiswa,"Kampus menyediakan beasiswa prestasi akademik, beasiswa KIP-Kuliah, dan beasiswa yayasan. Pendaftaran dibuka setiap awal semester melalui bagian kemahasiswaan dengan melampirkan transkrip nilai dan surat keterangan."
+jadwal kuliah semester ini,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+dimana lihat jadwal kuliah,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+jadwal kuliah hari senin apa saja,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+kapan jadwal uts,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+kapan uas dimulai,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+jadwal ujian diumumkan kapan,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+cek jadwal mata kuliah di mana,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+jadwal kelas saya kok belum muncul,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+perkuliahan dimulai tanggal berapa,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+kapan mulai kuliah semester baru,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+jadwal kuliah bisa dilihat di siakad gak,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+jam kuliah pagi mulai jam berapa,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+ada perubahan jadwal kuliah ga,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+saya mau lihat jadwal ujian akhir semester,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+tolong beri tahu bagaimana cara melihat jadwal perkuliahan untuk semester genap di portal akademik,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+kalender akademik tahun ini,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+jadwal praktikum dimana,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+kelas hari ini jam berapa,jadwal_kuliah,Jadwal kuliah dapat dilihat di portal akademik (SIAKAD) pada menu Jadwal Kuliah setelah KRS disetujui. Jadwal ujian diumumkan dua minggu sebelum UTS dan UAS.
+cara isi krs,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+bagaimana mengisi krs online,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+kapan pengisian krs,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+krs diisi lewat mana,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+batas sks yang boleh diambil berapa,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+saya lupa password siakad buat krs,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+dosen wali belum acc krs saya,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+bisa ubah krs setelah disetujui gak,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+cara menambah mata kuliah di krs,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+masa revisi krs sampai kapan,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+krs tidak bisa dibuka kenapa ya,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+berapa maksimal sks per semester,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+gimana kalau telat isi krs,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+tolong jelaskan langkah mengajukan krs sampai disetujui dosen pembimbing akademik,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+cara drop mata kuliah,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+kartu rencana studi dimana,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+krs error terus gimana ya,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+mau ambil sks lebih bisa tidak,krs,"KRS diisi online melalui SIAKAD pada masa pengisian KRS di kalender akademik. Pilih mata kuliah sesuai batas SKS, lalu ajukan persetujuan ke dosen pembimbing akademik."
+wifi kampus namanya apa,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+cara connect wifi kampus,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+password wifi kampus apa,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+wifi nya lemot banget,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+wifi tidak bisa login,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+internet kampus kok mati,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+gimana cara masuk jaringan hotspot kampus,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+login wifi pakai apa,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+wifi di perpustakaan ada gak,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+kenapa wifi kampus tidak bisa tersambung,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+ssid wifi mahasiswa apa,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+koneksi internet di kelas putus terus,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+"saya sudah memasukkan nim dan password tapi tetap gagal masuk wifi kampus, mohon bantuannya",wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+ada wifi gratis buat mahasiswa gak,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+lapor wifi bermasalah ke mana,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+kuota internet kampus ada batasnya ga,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+cara pakai wifi kampus di hp,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+sinyal wifi hilang di gedung b,wifi,"Wi-Fi kampus tersedia di seluruh gedung dengan nama jaringan Kampus-WiFi. Login memakai NIM dan password SIAKAD. Jika gagal tersambung, hubungi UPT TIK."
+nomor telepon admin,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+kontak bagian akademik,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+email kampus apa,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+bagaimana menghubungi staf administrasi,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+nomor whatsapp kampus,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+mau bicara dengan petugas langsung bisa gak,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+alamat email bagian akademik,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+telepon kampus berapa,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+kontak layanan mahasiswa,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+jam kerja admin kampus,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+admin akademik bisa dihubungi lewat apa,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+"saya butuh bantuan petugas, kontaknya apa ya",kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+tolong berikan nomor yang bisa saya hubungi untuk urusan surat keterangan mahasiswa aktif,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+cs kampus ada gak,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+bagian tata usaha bisa dihubungi dimana,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+kirim keluhan ke siapa,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+ada hotline kampus,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+email dosen pembimbing dimana carinya,kontak_admin,Anda dapat menghubungi bagian administrasi akademik melalui email admin@kampus.ac.id atau telepon (0341) 555-0100 pada hari kerja pukul 08.00-16.00 WIB.
+alamat kampus dimana,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+lokasi kampus di mana,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+kampusnya di daerah mana,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+cara ke kampus dari stasiun,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+ada angkot yang lewat kampus gak,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+kampus dekat apa ya,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+share lokasi kampus dong,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+peta kampus ada gak,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+gedung rektorat di mana,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+lokasi gedung fakultas teknik dimana,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+dari terminal ke kampus naik apa,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+tempat parkir mahasiswa ada ga,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+"saya dari luar kota, bagaimana cara menuju kampus dari bandara",lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+alamat lengkap kampus berapa nomor,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+gimana rute ke kampus pakai motor,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+kampus ada di kota apa,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+dimana letak laboratorium komputer,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+boleh minta link google maps kampus,lokasi_kampus,"Kampus berlokasi di Jl. Veteran No. 10, Malang, Jawa Timur. Dari stasiun kota dapat ditempuh sekitar 15 menit dengan angkutan umum atau ojek daring."
+cuaca hari ini bagaimana,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+harga bensin hari ini berapa,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+resep nasi goreng enak,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+siapa juara liga inggris,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+tolong buatkan puisi tentang hujan,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+berapa kurs dolar hari ini,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+film bagus apa yang lagi tayang,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+rekomendasi lagu santai,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+siapa presiden pertama indonesia,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+cara membuat kopi susu,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+jadwal kereta ke jakarta,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+tips diet sehat,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+apa itu bitcoin,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+ceritakan lelucon lucu,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+cara memperbaiki motor mogok,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+berapa hasil 25 dikali 4,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+kapan hari raya idul fitri,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+ramalan zodiak hari ini,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+harga iphone terbaru berapa,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
+tempat makan enak di dekat sini,di_luar_topik,"Maaf, pertanyaan itu di luar topik layanan kampus. Saya bisa membantu seputar pendaftaran, biaya kuliah, beasiswa, jadwal, KRS, Wi-Fi, kontak, dan lokasi kampus."
