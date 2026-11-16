@@ -31,6 +31,7 @@ Cakupan materi dimulai dari fondasi *Classical NLP* (preprocessing, representasi
   - [Pertemuan 08: Lanjutan Deep Learning & Generalisasi Model](#pertemuan-08-lanjutan-deep-learning--generalisasi-model)
   - [Pertemuan 10: Mini Project — Neural Machine Translation (Seq2Seq + Attention)](#pertemuan-10-mini-project--neural-machine-translation-seq2seq--attention)
   - [Pertemuan 11: Conversational Chatbot — Retrieval vs Neural Network](#pertemuan-11-conversational-chatbot--retrieval-vs-neural-network)
+  - [Pertemuan 12: Transformer & Mini Projects (Summarization & Generation)](#pertemuan-12-transformer--mini-projects-summarization--generation)
 - [Struktur Repositori](#-struktur-repositori)
 - [Teknologi & Library](#-teknologi--library)
 - [Panduan Instalasi & Menjalankan](#-panduan-instalasi--menjalankan)
@@ -77,6 +78,7 @@ flowchart LR
 | **08** | Lanjutan Deep Learning | Embedding 100d + RNN/LSTM/GRU + External Test Generalization | Twitter Sentiment Analysis Dataset | [Buka](<./[Submit]Praktikum_8_lanjutanAnalisis_Sentimen_Neural_Network.ipynb>) |
 | **10** | Mini Project: Machine Translation | Seq2Seq Encoder–Decoder (No Attention vs Bahdanau Attention) | Paralel PANL-BPPT (ID ➔ EN) | [Buka](<./pertemuan 10/SUbmit pertemuan 10 Mini_Project_MT_PANL_BPPT_FINAL_(1).ipynb>) |
 | **11** | Conversational Chatbot | Model 1: Retrieval (TF-IDF + Cosine Sim)<br>Model 2: Neural Classifier (Embedding + GRU/LSTM) | IndoHealth & FAQ Chatbot Dataset | [Buka](<./Pertemuan 11/submitChatbot_Pertemuan11.ipynb>) |
+| **12** | Summarization & Generation | Summarization: TF-IDF vs TextRank (ROUGE)<br>Generation: LSTM vs GRU (Perplexity) | IndoSum (Kata.ai) & Wikipedia-ID | [Summarization](<./pertemuan 12/Mini_Project_Text_Summarization.ipynb>)<br>[Generation](<./pertemuan 12/Mini_Project_Text_Generation.ipynb>) |
 
 ---
 
@@ -241,13 +243,18 @@ NLP-Semester-5/
 │   ├── SUbmit pertemuan 10 Mini_Project_MT_PANL_BPPT_FINAL_(1).ipynb # Laporan final Mini Project NMT
 │   └── dataset_id_en.csv                                # Korpus paralel Indonesia-Inggris (PANL-BPPT)
 │
-└── Pertemuan 11/                                        # Praktikum: Conversational Chatbot
-    ├── NLP Pertemuan #11.pdf                            # Slide materi Chatbot Retrieval & Neural
-    ├── Chatbot - Pertemuan11.ipynb                      # Eksperimen alur chatbot
-    ├── submitChatbot_Pertemuan11.ipynb                  # Laporan final evaluasi chatbot
-    ├── dataset_chatbot.xlsx                             # Dataset intent chatbot primer
-    ├── IndoHealth_NLP_NCD_Instruct_QA_Sample.csv        # Sampel QA kesehatan IndoHealth
-    └── Processed Dataset.csv                            # Dataset hasil preprocessing
+├── Pertemuan 11/                                        # Praktikum: Conversational Chatbot
+│   ├── NLP Pertemuan #11.pdf                            # Slide materi Chatbot Retrieval & Neural
+│   ├── Chatbot_Pertemuan11.ipynb                        # Notebook utama chatbot IndoHealth
+│   ├── submitChatbot_Pertemuan11.ipynb                  # Laporan final evaluasi chatbot
+│   └── IndoHealth_NLP_NCD_Instruct_QA_Sample.csv        # Sampel QA kesehatan IndoHealth
+│
+└── pertemuan 12/                                        # Praktikum: Transformer, Summarization & Generation
+    ├── NLP Pertemuan #12 Transformer.pdf                # Slide materi Transformer & Self-Attention
+    ├── link.txt                                         # Sumber tautan dataset resmi
+    ├── Mini_Project_Text_Summarization.ipynb            # Mini Project Summarization (TF-IDF vs TextRank)
+    ├── Mini_Project_Text_Generation.ipynb               # Mini Project Generation (LSTM vs GRU)
+    └── templatenyaText_Generation.ipynb                 # Berkas template awal generasi teks
 ```
 
 ---

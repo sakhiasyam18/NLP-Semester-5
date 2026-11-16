@@ -1,0 +1,5 @@
+summa
+https://github.com/kata-ai/indosum
+
+gene
+https://huggingface.co/datasets/indonesian-nlp/wikipedia-id/commits/main/data
